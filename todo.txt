@@ -1,0 +1,27 @@
+Date : 26/07/2025
+
+Version 01 : 
+Objectifs Espagnol
+Duolingo : 1
+Mosalingua : 1
+Caféyn vocable : 1
+Mondly : 1
+Objectifs Japonais
+Kana : 1
+Drops : 1
+Japonais : 1
+Kawai : 1
+Minna no Nihongo : 1
+Objectifs Python
+Github Commit : 1
+Datacamp : 1
+Tuto : 1
+Repli : 1
+Real Python : 1
+Objectifs Sport/Sante
+Sport : 1
+Apprentissage : 0
+Regime : 1
+Objectifs Famille
+Famille : 0
+===================================
