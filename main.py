@@ -1,4 +1,4 @@
-#Essai de Todo en Python V0.1 ajout de nouvelles taches 
+#Ancien Programme supprimé et reinstallé à partir de replit 
 maDate=input("Entrez une date au format jj/mm/aaaa : ")
 #Espagnol
 tacheDuolingo=input("Avez-vous fait Duolingo : ")
