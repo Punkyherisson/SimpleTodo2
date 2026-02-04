@@ -1,4 +1,4 @@
-**Project description:**
+**Project description: **
 This is a simple Todo list which I use at the end of the day to check if I fulfilled my daily objectives and then dumps that to a file.
 In the furure, I will reorganize and new features
 **Installation:**

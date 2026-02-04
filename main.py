@@ -1,5 +1,5 @@
 #Ancien Programme supprimé et reinstallé à partir de replit
-#Programme pour remplir le fichier todo.txt
+#Programme pour remplir le fichier todo.txt avec les tâches à faire
 maDate = input("Entrez une date au format jj/mm/aaaa : ")
 #Espagnol
 tacheDuolingo = input("Avez-vous fait Duolingo : ")
