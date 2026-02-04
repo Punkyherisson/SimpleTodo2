@@ -33,7 +33,7 @@ python main.py
 1. Lancer le programme : `python main.py`
 2. Répondre aux questions (oui/non ou autre)
 3. Le fichier `todo.txt` est automatiquement mis à jour
-
+4. 
 ## Roadmap
 
 - [x] Questions de base par catégorie

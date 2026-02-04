@@ -25,3 +25,30 @@ Regime : 1
 Objectifs Famille
 Famille : 0
 ===================================
+Date : 04/02/2026
+
+Version 01 : 
+Objectifs Espagnol
+Duolingo : oui
+Mosalingua : non
+Caféyn vocable : non
+Mondly : non
+Objectifs Japonais
+Kana : oui
+Drops : oui
+Japonais : non
+Kawai : oui
+Minna no Nihongo : oui
+Objectifs Python
+Github Commit : non
+Datacamp : non
+Tuto : non
+Repli : oui
+Real Python : non
+Objectifs Sport/Sante
+Sport : oui
+Apprentissage : oui
+Regime : oui
+Objectifs Famille
+Famille : non
+===================================
